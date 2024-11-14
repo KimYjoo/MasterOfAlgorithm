@@ -3,9 +3,6 @@
 ## 해결 후보
 ## 해결중
 ## 해결 문제
-<details markdown="1">
-    <summary>silver</summary>
-    <ul>
-        <li><p><a href="https://www.acmicpc.net/problem/1929">B1929</a>  : 에라토스테네스의 체 - <span style="color:red">(실패)</span> [24/11/14]</p></li>
-    </ul>
-</details>
+
+### <span style="color:silver">silver</span>
+- [B1929](https://www.acmicpc.net/problem/1929) : : 에라토스테네스의 체 - <span style="color:red">(실패)</span> [24/11/14]

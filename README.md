@@ -5,5 +5,5 @@
 ## 해결 문제
 <details markdown="1">
     <summary>silver</summary>
-    [B1929](https://www.acmicpc.net/problem/1929) [24/11/14] (실패)
+    <p><a href="https://www.acmicpc.net/problem/1929">B1929</a> [24/11/14] (실패)</p>
 </details>

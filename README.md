@@ -12,3 +12,4 @@
 - 🥈[B11866](https://www.acmicpc.net/problem/11866) 요세푸스 문제 0 : deque의 사용 [24/11/20] [🟢](https://github.com/KimYjoo/MasterOfAlgorithm/tree/main/silver/B11866)
 - 🥈[B11650](https://www.acmicpc.net/problem/11650) 좌표정렬하기 : 람다 정렬 [24/11/20][🟢](https://github.com/KimYjoo/MasterOfAlgorithm/tree/main/silver/B11650)
 - 🥈[B1260](https://www.acmicpc.net/problem/1260) DFS와 BFS : DFS, BFS 구현 [24/11/21][🟢](https://github.com/KimYjoo/MasterOfAlgorithm/tree/main/silver/B1260)
+- 🥈[B11723](https://www.acmicpc.net/problem/11723) 집합 : 집합 자료형, 시간초과 해결 [24/11/25][🔴](https://github.com/KimYjoo/MasterOfAlgorithm/tree/main/silver/B11723)

@@ -16,3 +16,4 @@
 - 🥈[B1764](https://www.acmicpc.net/problem/1764) 듣보잡 : 해시 테이블 자료구조 이해 set, dict [24/11/25][🟢](https://github.com/KimYjoo/MasterOfAlgorithm/tree/main/silver/B1764)
 - 🥈[B1003](https://www.acmicpc.net/problem/1003) 피보나치 함수 : 동적 프로그래밍, 메모이제이션 [24/11/26][🟢](https://github.com/KimYjoo/MasterOfAlgorithm/tree/main/silver/B1003)
 - 🥈[B2178](https://www.acmicpc.net/problem/1003) 미로 탐색 : BFS [25/4/4][🔴](https://github.com/KimYjoo/MasterOfAlgorithm/tree/main/silver/B2178)
+- 🥈[B2468](https://www.acmicpc.net/problem/1003) 안전 영역 : BFS,DFS [25/4/6][🔴](https://github.com/KimYjoo/MasterOfAlgorithm/tree/main/silver/B2468)

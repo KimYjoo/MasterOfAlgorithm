@@ -17,3 +17,4 @@
 - 🥈[B1003](https://www.acmicpc.net/problem/1003) 피보나치 함수 : 동적 프로그래밍, 메모이제이션 [24/11/26][🟢](https://github.com/KimYjoo/MasterOfAlgorithm/tree/main/silver/B1003)
 - 🥈[B2178](https://www.acmicpc.net/problem/1003) 미로 탐색 : BFS [25/4/4][🔴](https://github.com/KimYjoo/MasterOfAlgorithm/tree/main/silver/B2178)
 - 🥈[B2468](https://www.acmicpc.net/problem/1003) 안전 영역 : BFS,DFS [25/4/6][🔴](https://github.com/KimYjoo/MasterOfAlgorithm/tree/main/silver/B2468)
+- 🥈[B2583](https://www.acmicpc.net/problem/1003) 영역 구하기 : BFS,DFS [25/4/7][🟢](https://github.com/KimYjoo/MasterOfAlgorithm/tree/main/silver/B2583)

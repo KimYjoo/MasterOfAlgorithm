@@ -1,34 +1,40 @@
 import sys
 from collections import deque
-sys.setrecursionlimit(10**6)
 
-N, M = map(int, sys.stdin.readline().split())
+input = sys.stdin.read
+data = input().split()
+N = int(data[0])
+M = int(data[1])
 edges = [[] for _ in range(N+1)]
-visited = [False] * (N + 1)
+idx = 2
 for _ in range(M):
-    trusting, trusted = map(int, sys.stdin.readline().split())
-    edges[trusted].append(trusting)
+    a = int(data[idx])
+    b = int(data[idx+1])
+    edges[b].append(a)
+    idx += 2
 
-def bfs(node):
-    visited[node] = True
-    bag = deque([node])
+visited = [False] * (N + 1)
+
+def bfs(start):
     count = 1
-    while bag:
-        next_node = bag.popleft()
-        for i in edges[next_node]:
-            if not visited[i]:
-                visited[i] = True
-                bag.append(i)
+    q = deque([start])
+    visited[start] = True
+    while q:
+        cur = q.popleft()
+        for nxt in edges[cur]:
+            if not visited[nxt]:
+                visited[nxt] = True
+                q.append(nxt)
                 count += 1
     return count
 
-max_count = -1
+max_count = 0
 result = []
 
 for i in range(1, N + 1):
-    cnt = bfs(i)
     for j in range(1, N + 1):
         visited[j] = False
+    cnt = bfs(i)
     if cnt > max_count:
         max_count = cnt
         result = [i]
